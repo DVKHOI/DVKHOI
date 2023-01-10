@@ -1,5 +1,6 @@
 ### Hi there 👋
-[Markdown](http://https://vi.wikipedia.org/wiki/Markdown)
+![markdown](https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png)
+
 
 <!--
 **DVKHOI/DVKHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
