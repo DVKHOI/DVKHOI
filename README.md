@@ -24,7 +24,7 @@
 
 - :seedling🌱g Technical Content Writing.
 
-- ⚡ In my free ⚡ I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free ⚡ I often read technology articles.
 ---
 
 ### :ham🛠:
