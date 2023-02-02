@@ -22,8 +22,6 @@
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :seedling🌱g Technical Content Writing.
-
 - ⚡ In my free ⚡ I often read technology articles.
 ---
 
